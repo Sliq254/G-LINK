@@ -1,0 +1,196 @@
+<t name="Homepage" t-name="website.homepage">
+    <t t-call="website.layout" pageName.f="homepage">
+        <div id="wrap" class="oe_structure"><section class="s_embed_code o_colored_level pt0 pb0 text-center d-lg-block d-none o_snippet_mobile_invisible" data-snippet="s_embed_code" data-name="Embed Code" data-invisible="1">
+        <template class="s_embed_code_saved"><script src="https://cdn.jotfor.ms/agent/embedjs/0199f072927d74b488c9ac775b688f3f1589/embed.js">
+</script></template>
+        <div class="s_embed_code_embedded o_not_editable container"><script src="https://cdn.jotfor.ms/agent/embedjs/0199f072927d74b488c9ac775b688f3f1589/embed.js">
+</script></div>
+    </section><section class="s_cover o_cc o_cc5 o_colored_level s_parallax_no_overflow_hidden pb0 parallax s_parallax_is_fixed o_full_screen_height pt0" data-scroll-background-ratio="1" data-oe-shape-data="{&quot;shape&quot;:&quot;html_builder/Floats/02&quot;,&quot;colors&quot;:{&quot;c1&quot;:&quot;#1BA7F3&quot;,&quot;c2&quot;:&quot;#474973&quot;,&quot;c3&quot;:&quot;#F8F9FA&quot;,&quot;c5&quot;:&quot;#00000080&quot;},&quot;flip&quot;:[],&quot;showOnMobile&quot;:true,&quot;shapeAnimationSpeed&quot;:&quot;0&quot;}" data-snippet="s_cover" style="position: relative;" data-attachment-id="1250" id="Thank-you-for-choosing" data-anchor="true" data-format-mimetype="image/webp" data-name="Cover"><span class="s_parallax_bg oe_img_bg o_bg_img_center o_bg_img_origin_border_box" style="background-image: url(&quot;/web/image/1817-470fb6df/A%20warm%20golden%20light%20illuminates%20a%20scene%20of%20young%20African%20adults%20gleefully%20shopping%20in%20a%20lively%20market%2C%20creating%20a%20luxurious%20and%20radiant%20atmosphere.webp&quot;);" data-attachment-id="1816" data-format-mimetype="image/webp" data-resize-width="1024" data-original-id="1816" data-original-src="/web/image/1816-b2364446/A%20warm%20golden%20light%20illuminates%20a%20scene%20of%20young%20African%20adults%20gleefully%20shopping%20in%20a%20lively%20market%2C%20creating%20a%20luxurious%20and%20radiant%20atmosphere.jpg" data-mimetype-before-conversion="image/jpeg" data-mimetype="image/webp"/><div class="o_we_bg_filter" style="background-color: rgba(0, 0, 0, 0.5);"/><div class="o_we_shape o_html_builder_Floats_02 o_shape_show_mobile" style="background-image: url(&quot;/html_editor/shape/html_builder%2FFloats%2F02.svg?c1=%231BA7F3&amp;c2=%23474973&amp;c3=%23F8F9FA&amp;c5=%2300000080&quot;);"/>
+        
+        
+        <div class="s_allow_columns o_container_small">
+        <div class="row o_grid_mode" data-row-count="14">
+            
+        <div class="o_grid_item o_grid_item_image g-col-lg-6 g-height-6 o_colored_level col-lg-6" style="z-index: 2; grid-area: 1 / 4 / 7 / 10;"><img src="/web/image/1486-7736974c/Untitled%20%284%29-Photoroom.webp" alt="" data-attachment-id="1234" class="img img-fluid o_we_custom_image o_editable_media" data-format-mimetype="image/webp" data-original-id="1234" data-original-src="/web/image/1234-1f17934e/Untitled%20%284%29-Photoroom.png" data-mimetype-before-conversion="image/png" data-resize-width="1280" data-mimetype="image/webp" loading="lazy"/></div><div class="col o_colored_level o_grid_item col-12 g-height-10 g-col-lg-10 col-lg-10 col-lg-12" style="z-index: 1; grid-area: 5 / 2 / 15 / 12;">
+                <p class="lead"><br/></p>
+                <a href="https://is.gd/LmALBL" target="_blank"><img src="/web/image/1794-ebc7c44d/RUNNING%20LOW%20ON%20MOBILE%20MONEY.png" alt="" data-attachment-id="1793" class="img img-fluid o_we_custom_image o_animate o_animate_both_scroll mx-auto d-block o_anim_tada img-thumbnail o_visible" style="visibility: visible; --wanim-intensity: 75; animation-duration: 3s; animation-play-state: paused;" data-shape="html_builder/special/special_speed" data-shape-colors=";;;#F0F2F5;" data-format-mimetype="image/webp" data-resize-width="690" data-original-id="1793" data-original-src="/web/image/1793-98c2e90e/RUNNING%20LOW%20ON%20MOBILE%20MONEY.png" data-mimetype-before-conversion="image/png" data-mimetype="image/svg+xml" loading="eager"/></a>
+            </div></div>
+            </div>
+    </section><section class="s_text_image pt0 o_colored_level pb0" data-snippet="s_text_image" data-name="Text - Image">
+        
+        <div class="container-fluid">
+            <div class="row o_grid_mode" data-row-count="14">
+                
+                
+            <div class="o_grid_item o_grid_item_image o_colored_level g-col-lg-5 g-height-4 col-lg-5 o_animate o_animate_on_scroll o_anim_fade_in order-lg-0" style="z-index: 6; grid-area: 9 / 1 / 13 / 6; text-align: center; order: 1; visibility: visible;" data-scroll-zone-start="0" data-scroll-zone-end="100"><a target="_blank" href="https://whatsapp.com/channel/0029Vb3V1cqKGGGPVHmFuZ1O"><img src="/web/image/1507-bb26fdb3/join-whatsapp-channel.webp" alt="" data-attachment-id="1505" class="img img-fluid o_we_custom_image o_animate o_animate_on_scroll o_anim_fade_in o_editable_media" style="visibility: visible;" data-format-mimetype="image/webp" data-original-id="1505" data-original-src="/web/image/1505-9945e89e/join-whatsapp-channel.webp" data-mimetype-before-conversion="image/webp" data-resize-width="962" data-mimetype="image/webp" loading="eager"/></a></div><div class="o_colored_level o_grid_item g-col-lg-5 g-height-8 col-lg-5 order-lg-0" style="z-index: 2; grid-area: 1 / 7 / 9 / 12; animation-play-state: paused; visibility: visible; order: 2; background-color: rgba(0, 0, 0, 0.69);">
+                    <h2 style="text-align: center;"><span class="h4-fs"><font class="text-o-color-1">YOUR SECURITY AND TRUST:&amp;nbsp;</font></span><br/></h2><font class="text-o-color-3"><br/></font><span style="font-size: 17px;"><font class="text-o-color-3">Public Wi-Fi shouldn’t mean compromised safety. At G-LINK, we protect your connection with professional-grade protocols so you can browse with complete peace of mind.<strong><br/><br/></strong></font></span><ul><li><p><b><font style="color: rgb(54, 143, 231);">Encrypted Connections:</font></b>&amp;nbsp;<font style="color: rgb(255, 255, 255);">Industry-standard encryption safeguards your network traffic from external threats.</font></p></li><li><p><b><font style="color: rgb(54, 143, 231);">Strict Data Privacy:</font></b> <font style="color: rgb(255, 255, 255);">We only collect what’s essential to get you online. We <b>NEVER</b> sell your personal browsing data.</font></p></li><li><p><b><font style="color: rgb(54, 143, 231);">Monitored Infrastructure:</font></b><font style="color: rgb(255, 255, 255);"> Our reliable network is actively monitored around the clock to guarantee a stable, secure log-in every time.</font></p></li><li><p><br/></p></li></ul><span style="font-size: 17px;"><font class="text-o-color-3">Browse, stream, and shop freely, G-LINK has got you covered.</font></span><br/><a href="https://is.gd/LmALBL" class="o_translate_inline btn btn-primary"><font style="color: rgb(255, 255, 255);">Learn more:</font></a><br/>
+                </div><div class="o_colored_level o_grid_item o_anim_fade_in g-col-lg-3 o_animate o_animate_on_scroll order-lg-0 g-height-6 col-lg-3" style="z-index: 3; grid-area: 9 / 9 / 15 / 12; visibility: visible; order: 3;" data-scroll-zone-start="0" data-scroll-zone-end="100">
+                    <div data-oe-expression="//www.youtube-nocookie.com/embed/ol-2go5LXxE?rel=0&amp;autoplay=1&amp;start=0&amp;mute=1&amp;enablejsapi=1&amp;controls=0&amp;loop=1&amp;playlist=ol-2go5LXxE" class="ms-auto media_iframe_video"/>
+                </div><div class="o_grid_item g-col-lg-5 g-height-6 col-lg-5 o_colored_level order-lg-0" style="z-index: 5; grid-area: 2 / 1 / 8 / 6; order: 0; background-color: rgba(0, 0, 0, 0.69);">
+                    <h2 style="text-align: center;"><span class="h4-fs"><font class="text-o-color-1">CONNECT SMART, PAY LESS</font></span><br/></h2><font class="text-o-color-3">
+                    <p style="text-align: left;"><br/></p><p style="text-align: left;">G-LINK gives you instant, highly affordable hotspot access the moment you plug in. Fast, simple, and safe. Your connection is always protected.</p><p style="text-align: left;">Starting at just<b> 10/-,</b> we deliver the fastest, easiest path to reliable Wi-Fi. Plus, our dedicated local support team is always on standby to ensure you stay seamlessly connected.</p><p style="text-align: left;"><br/></p></font><a href="https://is.gd/LmALBL" class="o_translate_inline btn btn-primary"><font style="color: rgb(255, 255, 255);" class="bg-o-color-1">Learn more:</font></a><br/><font style="background-color: rgb(54, 143, 231);">
+                </font></div></div>
+        </div>
+    </section><section class="s_comparisons o_cc o_colored_level o_cc2 pb0 text-o-color-3 pt0" data-vxml="001" data-vcss="001" data-snippet="s_comparisons" style="background-color: rgba(0, 0, 0, 0.5);" data-name="Comparisons">
+        <div class="container">
+            <div class="mb-4">
+                <p><br/></p>
+            </div>
+            <div class="row gap-4 gap-lg-0">
+                <div class="col-lg-4" data-name="Plan" style="animation-play-state: paused; visibility: visible;">
+                    <div class="s_card card o_cc h-100 my-0 o_colored_level text-o-color-1 o_cc1" data-vxml="001" data-snippet="s_card" data-name="Card" style="background-color: rgba(0, 0, 0, 0.5);">
+                        <div class="card-body">
+                            <h3 class="card-title h5-fs"><span class="h4-fs"><font class="text-o-color-3"><strong>TOP SELLER (HOTSPOT)</strong></font></span><br/></h3>
+                            <div class="my-2">
+                                <span class="h3-fs"><strong>Ks 20/ = 6&amp;nbsp;hrs</strong></span></div>
+                            <p class="card-text small"><font style="color: rgb(255, 255, 255);">The most popular starter pack for hotspot users.</font></p><ul class="list-group list-group-flush text-start"><font><font class="text-o-color-5">
+                                </font></font><li class="list-group-item px-0 bg-transparent text-reset"><i class="fa fa-check text-success" role="img"/> TikTok</li><li class="list-group-item px-0 bg-transparent text-reset"><i class="fa fa-check text-success" role="img"/>&amp;nbsp;Facebook</li><li class="list-group-item px-0 bg-transparent text-reset"><i class="fa fa-check text-success" role="img"/>&amp;nbsp;HD Streaming</li><li class="list-group-item px-0 bg-transparent text-reset"><i role="img" class="fa fa-check text-success"/>Vlogging/ Live Streaming</li>
+                                <li class="list-group-item px-0 bg-transparent text-reset oe-nested"><i class="fa fa-check text-success" role="img"/>24/7 Customer Support</li>
+                                <li class="list-group-item px-0 bg-transparent text-reset"><br/></li>
+                            </ul>
+                        </div>
+                        <div class="card-footer text-center">
+                            <small class="text-center"><font style="color: rgb(255, 255, 255);"><strong>CONNECT SMART, PAY LESS!</strong></font></small><br/></div>
+                    </div>
+                </div>
+                <div class="col-lg-4" data-name="Plan" style="animation-play-state: paused; visibility: visible;">
+                    <div class="s_card card o_cc o_cc1 h-100 my-0 o_colored_level text-o-color-1" data-vxml="001" data-snippet="s_card" data-name="Card" style="background-color: rgba(0, 0, 0, 0.5);">
+                        <div class="card-body">
+                            <h3 class="card-title"><span class="h4-fs"><font style="color: rgb(255, 255, 255);"><strong>EXPERT (HOTSPOT)</strong></font></span><br/></h3>
+                            <div class="my-2">
+                                <span class="h3-fs"><strong>Ks 200/ = 7 days</strong>&amp;nbsp;</span></div>
+                            <p class="card-text small"><font style="color: rgb(255, 255, 255);">Built for the regulars. Seven full days of fast, uninterrupted, and seamless browsing</font><br/></p><ul class="list-group list-group-flush text-start">
+                                <li class="list-group-item px-0 bg-transparent text-reset"><i class="fa fa-check text-success" role="img"/>&amp;nbsp;Social Media</li>
+                                <li class="list-group-item px-0 bg-transparent text-reset"><i class="fa fa-check text-success" role="img"/>&amp;nbsp;Stream Football and Movies in HD</li>
+                                <li class="list-group-item px-0 bg-transparent text-reset"><i class="fa fa-check text-success" role="img"/>&amp;nbsp;Office/Business Work</li><li class="list-group-item px-0 bg-transparent text-reset"><i class="fa fa-check text-success" role="img"/>Vlogging/ Live Streaming</li>
+                                <li class="list-group-item px-0 bg-transparent text-reset"><i class="fa fa-check text-success" role="img"/>&amp;nbsp;24/7 Customer Support</li>
+                            </ul>
+                        </div>
+                        <div class="card-footer text-center">
+                            <small class="text-center"><font style="color: rgb(255, 255, 255);"><strong>CONNECT SMART, PAY LESS!</strong></font></small><br/></div>
+                    </div>
+                </div>
+                <div class="col-lg-4" data-name="Plan" style="animation-play-state: paused; visibility: visible;">
+                    <div class="s_card card o_cc o_cc1 h-100 my-0 o_colored_level text-o-color-1" data-vxml="001" data-snippet="s_card" data-name="Card" style="background-color: rgba(0, 0, 0, 0.5);">
+                        <div class="card-body">
+                            <h3 class="card-title h5-fs"><span class="h4-fs"><font class="text-o-color-3"><strong>HOME (PPPOE)</strong></font></span></h3>
+                            <div class="my-2">
+                                <span class="h3-fs"><strong>Ks 1,500/ = Month</strong></span></div>
+                            <p class="card-text small"><font style="color: rgb(255, 255, 255);">Built for heavy usage,&amp;nbsp;dedicated high-speed internet all month long.</font></p><ul class="list-group list-group-flush text-start">
+                                <li class="list-group-item px-0 bg-transparent text-reset"><i class="fa fa-check text-success" role="img"/> Unlimited Internet&amp;nbsp;</li>
+                                <li class="list-group-item px-0 bg-transparent text-reset"><i class="fa fa-check text-success" role="img"/>&amp;nbsp;Stable &amp;amp; Dedicated Speeds&amp;nbsp;</li>
+                                <li class="list-group-item px-0 bg-transparent text-reset"><i class="fa fa-check text-success" role="img"/>&amp;nbsp;UHD Streaming</li><li class="list-group-item px-0 bg-transparent text-reset"><i class="fa fa-check text-success" role="img"/>Vlogging/ Live Streaming/ Gaming</li>
+                                <li class="list-group-item px-0 bg-transparent text-reset"><i class="fa fa-check text-success" role="img"/>&amp;nbsp;24/7 Customer Support</li>
+                            </ul>
+                        </div>
+                        <div class="card-footer text-center">
+                            <small class="text-center"><font style="color: rgb(255, 255, 255);"><strong>CONNECT SMART, PAY LESS!</strong></font></small><br/></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section><section class="s_mockup_image o_cc o_cc1 o_colored_level pt0 pb0" data-oe-shape-data="{'shape':'html_builder/Bold/13','colors':{'c5':'o-color-3'},'flip':[],'showOnMobile':false,'shapeAnimationSpeed':'0'}" data-snippet="s_mockup_image" data-name="Mockup Image">
+        <div class="o_we_shape o_html_builder_Bold_13" style="background-image: url(&quot;/html_editor/shape/html_builder/Bold/13.svg?c5=o-color-3&quot;);"/>
+        <div class="container">
+            <div class="row o_grid_mode" data-row-count="-Infinity">
+                
+                
+            </div>
+        </div>
+    </section><section class="s_image_gallery o_slideshow o_colored_level o_cc o_cc4 s_image_gallery_controllers_outside_arrows_right s_image_gallery_controllers_outside pb0 pt40 s_image_gallery_indicators_hidden s_image_gallery_arrows_rounded" data-vcss="002" data-columns="3" data-snippet="s_image_gallery" data-name="Image Gallery" style="height: 688.8px; background-color: rgba(0, 0, 0, 0.5);">
+        <div class="overflow-hidden o_container_small"><div style="margin: 0 12px;" id="slideshow_1765131892566" class="carousel slide carousel-dark" data-bs-ride="carousel" data-bs-interval="3000"><div class="carousel-inner"><div class="carousel-item active" style="min-height: 593px;"><img src="/web/image/1332-f28b3987/Untitled%20%282%29.webp" alt="" data-attachment-id="1326" class="img img-fluid d-block mh-100 mw-100 mx-auto object-fit-cover o_we_custom_image rounded o_editable_media" data-format-mimetype="image/webp" data-original-id="1326" data-original-src="/web/image/1326-55e0921a/Untitled%20%282%29.png" data-mimetype-before-conversion="image/png" data-resize-width="690" data-mimetype="image/webp" data-index="0" style="visibility: visible;"/></div><div class="carousel-item undefined" style="min-height: 593px;"><img src="/web/image/1336-4ae5a369/SOKO_20250430_134236_0000.webp" alt="" data-attachment-id="1333" class="img img-fluid d-block mh-100 mw-100 mx-auto rounded object-fit-cover o_we_custom_image o_editable_media" data-format-mimetype="image/webp" data-original-id="1333" data-original-src="/web/image/1333-380a230b/SOKO_20250430_134236_0000.webp" data-mimetype-before-conversion="image/webp" data-resize-width="690" data-mimetype="image/webp" data-index="1"/></div></div><div class="o_carousel_controllers"><button class="carousel-control-prev o_we_no_overlay o_not_editable" data-bs-slide="prev" aria-label="Previous" title="Previous" data-bs-target="#slideshow_1765131892566"><span class="carousel-control-prev-icon" aria-hidden="true"/><span class="visually-hidden">Previous</span></button><div class="carousel-indicators s_image_gallery_indicators_bars" tabindex="-1"><button type="button" aria-label="Carousel indicator" data-bs-target="#slideshow_1765131892566" data-bs-slide-to="0" class="active" style="background-image: url(/web/image/1332-f28b3987/Untitled%20%282%29.webp)" aria-current="true"/><button type="button" aria-label="Carousel indicator" data-bs-target="#slideshow_1765131892566" data-bs-slide-to="1" style="background-image: url(/web/image/1336-4ae5a369/SOKO_20250430_134236_0000.webp)" tabindex="-1"/></div><button class="carousel-control-next o_we_no_overlay o_not_editable" data-bs-slide="next" aria-label="Next" title="Next" data-bs-target="#slideshow_1765131892566"><span class="carousel-control-next-icon" aria-hidden="true"/><span class="visually-hidden">Next</span></button></div></div></div>
+    </section><section class="s_reviews_wall o_colored_level text-o-color-4 pt0 o_cc o_cc2 pb16" data-snippet="s_reviews_wall" data-name="Reviews Wall" style="background-color: rgba(0, 0, 0, 0.16);">
+        <div class="container-fluid">
+            
+            
+            <div class="row o_grid_mode" data-row-count="14"><div class="o_colored_level o_grid_item g-height-1 g-col-lg-12 col-lg-12" style="grid-area: 1 / 1 / 2 / 13; z-index: 1; animation-play-state: paused; visibility: visible;"><h2 style="text-align: center;"><font class="text-o-color-1"><strong>CUSTOMERS TESTIMONIALS</strong></font><br/></h2><p class="lead"><font style="color: rgb(255, 255, 255);"><strong>What our customers are saying about us.</strong></font></p></div>
+                
+                
+                
+                
+                
+                
+            <div class="o_colored_level col-lg-4 g-col-lg-4 o_grid_item g-height-8" data-name="Review" style="z-index: 3; grid-area: 3 / 8 / 11 / 12;">
+                    <blockquote class="s_blockquote o_cc o_animable position-relative d-flex flex-column gap-4 w-100 h-100 mx-auto rounded fst-normal o_colored_level p-1 o_cc1 text-o-color-3 s_blockquote_with_icon" data-vcss="001" data-snippet="s_blockquote" data-name="Review" style="background-color: rgba(0, 0, 0, 0.5); border-radius: 6.4px !important; animation-play-state: paused; visibility: visible;">
+                        <div class="s_blockquote_line_elt position-absolute top-0 start-0 bottom-0 bg-o-color-1"><br/></div>
+                        <div class="s_blockquote_wrap_icon position-absolute top-0 start-50 translate-middle w-100">
+                            <i class="s_blockquote_icon fa fa-quote-right d-block mx-auto rounded bg-o-color-1" role="img"/>
+                        </div>
+                        <div class="s_rating s_rating_no_title" data-snippet="s_rating" data-name="Rating" data-vcss="001" data-icon="fa-star" aria-label="4 out of 5 stars">
+                            <strong class="s_rating_title">Rating</strong>
+                            <div class="s_rating_icons o_not_editable">
+                                <span class="s_rating_active_icons" style="color: #f3cc00;">
+                                    
+                                    
+                                    
+                                    
+                                <i class="fa fa-star"/> <i class="fa fa-star"/> <i class="fa fa-star"/> <i class="fa fa-star"/> <i class="fa fa-star"/> </span>
+                                <span class="s_rating_inactive_icons" style="color: var(--border-color);">
+                                    
+                                </span>
+                            </div>
+                        </div>
+                        <p class="s_blockquote_quote mb-auto"><em>"Failed uploads and endless buffering are officially ancient history. G-LINK handles instant HD uploads, live streaming, and social media without skipping a beat. Easily the best hotspot around<b>💯</b>"</em><br/></p>
+                        <div class="s_blockquote_infos d-flex gap-2 w-100 flex-row-reverse align-items-start justify-content-start text-end">
+                            <img src="/web/image/1356-c9cbe744/F.webp" alt="" data-attachment-id="1353" class="s_blockquote_avatar img img-fluid o_we_custom_image shadow rounded-circle" data-format-mimetype="image/webp" data-original-id="1353" data-original-src="/web/image/1353-c3756180/F.jpg" data-mimetype-before-conversion="image/jpeg" data-resize-width="640" data-mimetype="image/webp" style="width: 25% !important;" data-aspect-ratio="0/0" data-x="37.64691521139706" data-width="602.3530847886029" data-height="651.2940889246323" data-scale-x="1" data-scale-y="1" loading="lazy"/><div class="s_blockquote_author"><strong>Mariam M.</strong><br/>
+                                <span class="text-muted"><font style="color: rgb(54, 143, 231);">Maraba, Area resident</font></span></div>
+                        </div>
+                    </blockquote>
+                </div><div class="o_colored_level g-col-lg-4 o_grid_item col-12 g-height-8 col-lg-4" data-name="Review" style="z-index: 2; grid-area: 3 / 2 / 11 / 6;">
+                    <blockquote class="s_blockquote o_cc o_animable position-relative d-flex flex-column gap-4 w-100 h-100 mx-auto p-4 rounded fst-normal o_colored_level o_cc1 text-o-color-3 s_blockquote_with_icon" data-vcss="001" data-snippet="s_blockquote" data-name="Review" style="background-color: rgba(0, 0, 0, 0.5); border-radius: 6.4px !important; animation-play-state: paused; visibility: visible;">
+                        <div class="s_blockquote_line_elt position-absolute top-0 start-0 bottom-0 bg-o-color-1"><br/></div>
+                        <div class="s_blockquote_wrap_icon position-absolute top-0 start-50 translate-middle w-100">
+                            <i class="s_blockquote_icon fa fa-quote-right d-block mx-auto rounded bg-o-color-1" role="img"/>
+                        </div>
+                        <div class="s_rating s_rating_no_title" data-snippet="s_rating" data-name="Rating" data-vcss="001" data-icon="fa-star" aria-label="4 out of 5 stars">
+                            <strong class="s_rating_title">Rating</strong>
+                            <div class="s_rating_icons o_not_editable">
+                                <span class="s_rating_active_icons" style="color: #f3cc00;">
+                                    
+                                    
+                                    
+                                    
+                                <i class="fa fa-star"/> <i class="fa fa-star"/> <i class="fa fa-star"/> <i class="fa fa-star"/> <i class="fa fa-star"/> </span>
+                                <span class="s_rating_inactive_icons" style="color: var(--border-color);">
+                                    
+                                </span>
+                            </div>
+                        </div>
+                        <p><em>"Switched to G-LINK a few months ago and I haven't looked back. Fast speeds, reliable service, and the monthly package keeps my business running without a hitch. 10/10 recommendation!"</em><br/></p>
+                        <div class="s_blockquote_infos d-flex gap-2 w-100 flex-row-reverse align-items-start justify-content-start text-end">
+                            <img src="/web/image/1355-c197b232/M.webp" alt="" data-attachment-id="1354" class="s_blockquote_avatar img rounded-circle img-fluid o_we_custom_image" data-format-mimetype="image/webp" data-original-id="1354" data-original-src="/web/image/1354-cb1551ba/M.jpg" data-mimetype-before-conversion="image/jpeg" data-resize-width="690" data-mimetype="image/webp" data-aspect-ratio="0/0" data-x="305.81100996515556" data-y="44.5265191844705" data-width="656.8423913353045" data-height="656.8287471322612" data-scale-x="1" data-scale-y="1" style="width: 25% !important;" loading="lazy"/>
+                            <div class="s_blockquote_author">
+                                <strong>Patrick&amp;nbsp;N.</strong><br/>
+                                <span class="text-muted"><font style="color: rgb(54, 143, 231);">Maraba, Local businessman</font></span></div>
+                        </div>
+                    </blockquote>
+                </div><div class="o_grid_item col-lg-5 g-height-4 o_cc g-col-lg-5 o_cc5 o_colored_level col-12" style="--grid-item-padding-x: 0px; --grid-item-padding-y: 24px; animation-play-state: paused; visibility: visible; background-color: rgba(0, 0, 0, 0.69); z-index: 4; grid-area: 11 / 5 / 15 / 10;" data-name="Title block">
+                    <h2><span class="h4-fs"><font style="color: rgb(54, 143, 231);">Need Assistance? We're Here to Help.</font></span></h2>
+                    <p><span class="base-fs"><font style="color: rgb(255, 255, 255);">Your connection is our priority. If you have questions about your access, need technical support, or want to discuss coverage, our local team is ready to assist you.</font></span></p><p class="lead"><span class="base-fs"><font style="color: rgb(54, 143, 231);"><strong>Use the links below to reach us.</strong></font></span><br/></p><div class="s_social_media o_not_editable text-end" data-snippet="s_social_media" data-name="Social Media">
+                                <h5 class="s_social_media_title d-block"><br/></h5>
+<div class="alert alert-info css_non_editable_mode_hidden text-center o_empty_social_media_alert"><span>Click here to setup your social networks</span></div>
+<div class="alert alert-info css_non_editable_mode_hidden text-center o_empty_social_media_alert"><span>Click here to setup your social networks</span></div>
+<div class="alert alert-info css_non_editable_mode_hidden text-center o_empty_social_media_alert"><span>Click here to setup your social networks</span></div>
+<div class="alert alert-info css_non_editable_mode_hidden text-center o_empty_social_media_alert"><span>Click here to setup your social networks</span></div>
+<div class="alert alert-info css_non_editable_mode_hidden text-center o_empty_social_media_alert"><span>Click here to setup your social networks</span></div>
+<div class="alert alert-info css_non_editable_mode_hidden text-center o_empty_social_media_alert"><span>Click here to setup your social networks</span></div>
+<div class="alert alert-info css_non_editable_mode_hidden text-center o_empty_social_media_alert"><span>Click here to setup your social networks</span></div>
+<a href="/website/social/facebook" target="_blank" aria-label="Facebook" class="s_social_media_facebook"><i class="fa fa-whatsapp o_editable_media img-thumbnail rounded rounded-circle shadow-sm o_cc o_cc5" style="color: rgb(0, 255, 68); background-color: rgba(0, 0, 0, 0.5);"/></a>
+<a href="/website/social/twitter" target="_blank" aria-label="X" class="s_social_media_twitter"><i class="fa fa-newspaper-o o_editable_media o_cc rounded rounded-circle shadow-sm o_cc1" style="color: rgb(54, 143, 231); background-color: rgba(0, 0, 0, 0.5);"/></a>
+<a href="/website/social/linkedin" target="_blank" aria-label="LinkedIn" class="s_social_media_linkedin"><i class="fa fa-info o_editable_media o_cc rounded rounded-circle shadow-sm o_cc5" style="color: rgb(243, 204, 0); background-color: rgba(0, 0, 0, 0.5);"/></a>
+</div>
+                </div></div>
+        </div>
+    </section><section class="s_contact_info o_colored_level pt0 pb0 text-o-color-1" data-snippet="s_contact_info" data-name="Contact Info">
+        <div class="container-fluid">
+            <div class="row o_grid_mode" data-row-count="-Infinity">
+                
+                
+                
+                
+                
+            </div>
+        </div>
+    </section></div>
+    </t>
+</t>

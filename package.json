@@ -1,0 +1,13 @@
+{
+  "name": "g-link-website",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "build": "node -e \"import('node:fs').then(fs=>{fs.mkdirSync('dist',{recursive:true});for(const f of ['index.html','styles.css','app.js','admin.html','admin.css','admin.js','server.mjs'])fs.copyFileSync(f,'dist/'+f);if(fs.existsSync('public'))fs.cpSync('public','dist/public',{recursive:true});console.log('Static site ready in dist/');})\"",
+    "clean": "rm -rf dist",
+    "lint": "node --check app.js && node --check admin.js && node --check server.mjs"
+  }
+}
